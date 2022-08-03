@@ -2,7 +2,14 @@
   "posts": [
     {"id": 1,"title": "hello"},
     {"id": 2,"title": "hello2"},
-    {"id": 3,"title": "hello3"}
+    {"id": 3,"title": "hello3"},
+    {"id": 4"title": "hello3"}
+  ],
+   "productos": [
+    {"id": 1, "sku": 138011, "name": "Atacand 16"},
+    {"id": 2, "sku": 138012, "name": "Atacand 8"},
+    {"id": 3, "sku": 138013, "name": "Atacand 12"},
+    {"id": 4, "sku": 138014, "name": "Atacand 32"}
   ],
   "profile": {
     "name": "typicode"
