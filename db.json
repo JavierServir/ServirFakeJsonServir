@@ -12,6 +12,6 @@
     {"id": 4, "sku": 138014, "name": "Atacand 32"}
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode";
   }
 }
