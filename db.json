@@ -11,6 +11,23 @@
     {"id": 3, "sku": 138013, "name": "Atacand 12"},
     {"id": 4, "sku": 138014, "name": "Atacand 32"}
   ],
+  "ProductosDynamicsOdata": [
+    {
+      "ItemNumber": "001450",
+      "SearchName": "CAPRIMIDA",
+      "ProductGroupId": "ABBOTT"
+    },
+    {
+      "ItemNumber": "001453",
+      "SearchName": "FIRST ALLERDEFENSE",
+      "ProductGroupId": "ABBOTT"
+    },
+    {
+      "ItemNumber": "001460",
+      "SearchName": "LACTIFEM",
+      "ProductGroupId": "ABBOTT"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
