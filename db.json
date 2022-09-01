@@ -13,21 +13,79 @@
   ],
   "ProductosDynamicsOdata": [
     {
-      "ItemNumber": "001450",
+      "ItemNumber": 1450,
       "SearchName": "CAPRIMIDA",
       "ProductGroupId": "ABBOTT"
     },
     {
-      "ItemNumber": "001453",
+      "ItemNumber": 1453,
       "SearchName": "FIRST ALLERDEFENSE",
       "ProductGroupId": "ABBOTT"
     },
     {
-      "ItemNumber": "001460",
+      "ItemNumber": 1460,
       "SearchName": "LACTIFEM",
       "ProductGroupId": "ABBOTT"
     }
   ],
+
+  "ProductosDynamicsv2": [
+    {
+      "CodigoCendis": "1380_P",
+      "Nombre_Producto": "Symbicort Rapihaler",
+      "CodigoFactura": "",
+      "Categoria": "Sistema Respiratorio",
+      "Marca": "Symbicort",
+      "Laboratorio": "AztraZeneca",
+
+      "Tipo": "Variable",
+      "Variacion": "",
+      "Presentacion": "",
+      "Empaque": "",
+      "CadenaFrio": "",
+      "EnseñarInterno": "Si",
+      "TipoInterno": "Institucional",
+      "EnseñarPublco": "No"
+
+    },
+    {
+      "CodigoCendis": "138077",
+      "Nombre_Producto": "Symbicort Rapihaler",
+      "CodigoFactura": "SYMBICORT RAPIHALER 160/4.5 1X120 D",
+      "Categoria": "Sistema Respiratorio",
+      "Marca": "Symbicort",
+      "Laboratorio": "AztraZeneca",
+
+      "Tipo": "Variante",
+      "Variacion": "160 mcg/4.5 mcg",
+      "Presentacion": "Inhalador",
+      "Empaque": "",
+      "CadenaFrio": "Seco",
+      "EnseñarInterno": "Si",
+      "TipoInterno": "Institucional",
+      "EnseñarPublico": "Si"
+
+    },
+    {
+      "CodigoCendis": "138054",
+      "Nombre_Producto": "Symbicort Rapihaler",
+      "CodigoFactura": "SYMBICORT RAPIHALER 80/4.5 1X120 D",
+      "Categoria": "Sistema Respiratorio",
+      "Marca": "Symbicort",
+      "Laboratorio": "AztraZeneca",
+
+      "Tipo": "Variante",
+      "Variacion": "80 mcg/4.5 mcg",
+      "Presentacion": "Inhalador",
+      "Empaque": "",
+      "CadenaFrio": "Seco",
+      "EnseñarInterno": "Si",
+      "TipoInterno": "Institucional",
+      "EnseñarPublico": "No"
+
+    }
+  ],
+  
   "profile": {
     "name": "typicode"
   }
