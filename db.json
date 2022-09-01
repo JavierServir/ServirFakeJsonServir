@@ -93,6 +93,25 @@
       "TipoInterno": "Institucional",
       "EnseñarPublico": "No"
 
+    },
+    {
+      "CodigoCendis": "1382_P",
+      "Nombre_Producto": "Producto 3, mostrar",
+      "CodigoFactura": "",
+      "Categoria": "Mostrar",
+      "Marca": "Symbicort",
+      "Laboratorio": "AztraZeneca",
+
+      "Tipo": "Simple",
+      "Padre_Sku": "",
+      "Variacion": "",
+      "Presentacion": "",
+      "Empaque": "",
+      "CadenaFrio": "",
+      "EnseñarInterno": "Si",
+      "TipoInterno": "Institucional",
+      "EnseñarPublico": "Si"
+
     }
   ],
   
