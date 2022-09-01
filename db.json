@@ -27,13 +27,14 @@
       "Laboratorio": "AztraZeneca",
 
       "Tipo": "Variable",
+      "Padre_Sku": "",
       "Variacion": "",
       "Presentacion": "",
       "Empaque": "",
       "CadenaFrio": "",
       "EnseñarInterno": "Si",
       "TipoInterno": "Institucional",
-      "EnseñarPublco": "No"
+      "EnseñarPublco": "Si"
 
     },
     {
@@ -45,6 +46,7 @@
       "Laboratorio": "AztraZeneca",
 
       "Tipo": "Variante",
+      "Padre_Sku": "1380_P",
       "Variacion": "160 mcg/4.5 mcg",
       "Presentacion": "Inhalador",
       "Empaque": "",
@@ -63,6 +65,7 @@
       "Laboratorio": "AztraZeneca",
 
       "Tipo": "Variante",
+      "Padre_Sku": "1380_P",
       "Variacion": "80 mcg/4.5 mcg",
       "Presentacion": "Inhalador",
       "Empaque": "",
@@ -70,6 +73,25 @@
       "EnseñarInterno": "Si",
       "TipoInterno": "Institucional",
       "EnseñarPublico": "No"
+
+    },
+    {
+      "CodigoCendis": "1381_P",
+      "Nombre_Producto": "Producto 2, no mostrar",
+      "CodigoFactura": "",
+      "Categoria": "No Mostrar",
+      "Marca": "Symbicort",
+      "Laboratorio": "AztraZeneca",
+
+      "Tipo": "Simple",
+      "Padre_Sku": "",
+      "Variacion": "",
+      "Presentacion": "",
+      "Empaque": "",
+      "CadenaFrio": "",
+      "EnseñarInterno": "Si",
+      "TipoInterno": "Institucional",
+      "EnseñarPublco": "No"
 
     }
   ],
