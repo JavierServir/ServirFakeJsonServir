@@ -22,7 +22,7 @@
       "CodigoCendis": "1380_P",
       "Nombre_Producto": "Symbicort Rapihaler",
       "CodigoFactura": "",
-      "Categoria": "Sistema Respiratorio",
+      "Categoria": "sistema-respiratorio",
       "Marca": "Symbicort",
       "Laboratorio": "AztraZeneca",
 
@@ -41,7 +41,7 @@
       "CodigoCendis": "138077",
       "Nombre_Producto": "Symbicort Rapihaler",
       "CodigoFactura": "SYMBICORT RAPIHALER 160/4.5 1X120 D",
-      "Categoria": "Sistema Respiratorio",
+      "Categoria": "sistema-respiratorio",
       "Marca": "Symbicort",
       "Laboratorio": "AztraZeneca",
 
@@ -60,7 +60,7 @@
       "CodigoCendis": "138054",
       "Nombre_Producto": "Symbicort Rapihaler",
       "CodigoFactura": "SYMBICORT RAPIHALER 80/4.5 1X120 D",
-      "Categoria": "Sistema Respiratorio",
+      "Categoria": "sistema-respiratorio",
       "Marca": "Symbicort",
       "Laboratorio": "AztraZeneca",
 
@@ -79,7 +79,7 @@
       "CodigoCendis": "1381_P",
       "Nombre_Producto": "Producto 2, no mostrar",
       "CodigoFactura": "",
-      "Categoria": "No Mostrar",
+      "Categoria": "sistema-respiratorio",
       "Marca": "Symbicort",
       "Laboratorio": "AztraZeneca",
 
@@ -98,7 +98,7 @@
       "CodigoCendis": "1382_P",
       "Nombre_Producto": "Producto 3, mostrar",
       "CodigoFactura": "",
-      "Categoria": "Mostrar",
+      "Categoria": "sistema-respiratorio",
       "Marca": "Symbicort",
       "Laboratorio": "AztraZeneca",
 
