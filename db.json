@@ -19,98 +19,92 @@
 
   "ProductosDynamicsv2": [
     {
-      "CodigoCendis": "1380_P",
-      "Nombre_Producto": "Symbicort Rapihaler",
-      "CodigoFactura": "",
-      "Categoria": "sistema-respiratorio",
-      "Marca": "Symbicort",
-      "Laboratorio": "AztraZeneca",
+      
+      "Wc_Mostrar": "Publico",
 
-      "Tipo": "Variable",
-      "Padre_Sku": "",
-      "Variacion": "",
-      "Presentacion": "",
-      "Empaque": "",
-      "CadenaFrio": "",
-      "EnseñarInterno": "Si",
-      "TipoInterno": "Institucional",
-      "EnseñarPublico": "Si"
+      "Wc_tipo": "Padre",
+      "Wc_Opciones":"Juvéderm Volbella,Juvéderm Volift,Juvéderm Volite",
 
-    },
+      "Wc_Padre_Sku": "",
+
+      "Wc_Sku": "1380_P",
+      "Wc_Nombre": "Juvéderm",
+      "Wc_Categoria": " Higiene",
+      "Wc_Marca": "Symbicort",
+      "Wc_Laboratorio": "AztraZeneca",
+      "Wc_Descripcion": "Descripcion del producto",
+      
+
+      "Wc_Presentacion": "Jeringa",
+      "Wc_Empaque": "Caja"
+
+    }
+    ,
     {
-      "CodigoCendis": "138077",
-      "Nombre_Producto": "Symbicort Rapihaler",
-      "CodigoFactura": "SYMBICORT RAPIHALER 160/4.5 1X120 D",
-      "Categoria": "sistema-respiratorio",
-      "Marca": "Symbicort",
-      "Laboratorio": "AztraZeneca",
+      
+      "Wc_Mostrar": "Publico",
 
-      "Tipo": "Variante",
-      "Padre_Sku": "1380_P",
-      "Variacion": "160 mcg/4.5 mcg",
-      "Presentacion": "Inhalador",
-      "Empaque": "",
-      "CadenaFrio": "Seco",
-      "EnseñarInterno": "Si",
-      "TipoInterno": "Institucional",
-      "EnseñarPublico": "Si"
+      "Wc_tipo": "Hijo",
+      "Wc_Opcion_nes":"",
 
-    },
+      "Wc_Padre_Sku": "1380_P",
+
+      "Wc_Sku": "138001",
+      "Wc_Nombre": "Juvéderm Volbella",
+      "Wc_Categoria": "",
+      "Wc_Marca": "",
+      "Wc_Laboratorio": "",
+      "Wc_Descripcion": "Descripcion del producto hijo 1",
+      
+
+      "Wc_Presentacion": "",
+      "Wc_Empaque": ""
+
+    }
+
+    ,
     {
-      "CodigoCendis": "138054",
-      "Nombre_Producto": "Symbicort Rapihaler",
-      "CodigoFactura": "SYMBICORT RAPIHALER 80/4.5 1X120 D",
-      "Categoria": "sistema-respiratorio",
-      "Marca": "Symbicort",
-      "Laboratorio": "AztraZeneca",
+      
+      "Wc_Mostrar": "Publico",
 
-      "Tipo": "Variante",
-      "Padre_Sku": "1380_P",
-      "Variacion": "80 mcg/4.5 mcg",
-      "Presentacion": "Inhalador",
-      "Empaque": "",
-      "CadenaFrio": "Seco",
-      "EnseñarInterno": "Si",
-      "TipoInterno": "Institucional",
-      "EnseñarPublico": "No"
+      "Wc_tipo": "Hijo",
+      "Wc_Opciones":"",
 
-    },
+      "Wc_Padre_Sku": "1380_P",
+
+      "Wc_Sku": "138002",
+      "Wc_Nombre": "Juvéderm Volift",
+      "Wc_Categoria": "",
+      "Wc_Marca": "",
+      "Wc_Laboratorio": "",
+      "Wc_Descripcion": "Descripcion del producto hijo 2",
+      
+
+      "Wc_Presentacion": "",
+      "Wc_Empaque": ""
+
+    }
+
+    ,
     {
-      "CodigoCendis": "1381_P",
-      "Nombre_Producto": "Producto 2, no mostrar",
-      "CodigoFactura": "",
-      "Categoria": "sistema-respiratorio",
-      "Marca": "Symbicort",
-      "Laboratorio": "AztraZeneca",
+      
+      "Wc_Mostrar": "Publico",
 
-      "Tipo": "Simple",
-      "Padre_Sku": "",
-      "Variacion": "",
-      "Presentacion": "",
-      "Empaque": "",
-      "CadenaFrio": "",
-      "EnseñarInterno": "Si",
-      "TipoInterno": "Institucional",
-      "EnseñarPublico": "No"
+      "Wc_tipo": "Hijo",
+      "Wc_Opciones":"",
 
-    },
-    {
-      "CodigoCendis": "1382_P",
-      "Nombre_Producto": "Producto 3, mostrar",
-      "CodigoFactura": "",
-      "Categoria": "higiene",
-      "Marca": "Symbicort",
-      "Laboratorio": "AztraZeneca",
+      "Wc_Padre_Sku": "1380_P",
 
-      "Tipo": "Simple",
-      "Padre_Sku": "",
-      "Variacion": "",
-      "Presentacion": "",
-      "Empaque": "",
-      "CadenaFrio": "",
-      "EnseñarInterno": "Si",
-      "TipoInterno": "Institucional",
-      "EnseñarPublico": "Si"
+      "Wc_Sku": "138003",
+      "Wc_Nombre": "Juvéderm Volite",
+      "Wc_Categoria": "",
+      "Wc_Marca": "",
+      "Wc_Laboratorio": "",
+      "Wc_Descripcion": "Descripcion del producto hijo 3",
+      
+
+      "Wc_Presentacion": "",
+      "Wc_Empaque": ""
 
     }
   ],
